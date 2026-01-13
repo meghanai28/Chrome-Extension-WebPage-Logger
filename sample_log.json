@@ -1,0 +1,830 @@
+[
+  {
+    "ts": 1768284651537,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 508,
+    "y": 127
+  },
+  {
+    "ts": 1768284651559,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 499,
+    "y": 92
+  },
+  {
+    "ts": 1768284651580,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 489,
+    "y": 77
+  },
+  {
+    "ts": 1768284651605,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 478,
+    "y": 66
+  },
+  {
+    "ts": 1768284651625,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 467,
+    "y": 57
+  },
+  {
+    "ts": 1768284651655,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 454,
+    "y": 49
+  },
+  {
+    "ts": 1768284651681,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 442,
+    "y": 45
+  },
+  {
+    "ts": 1768284651701,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 439,
+    "y": 45
+  },
+  {
+    "ts": 1768284651743,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 437,
+    "y": 45
+  },
+  {
+    "ts": 1768284651862,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 437,
+    "y": 46
+  },
+  {
+    "button": 0,
+    "ts": 1768284651872,
+    "type": "click",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 437,
+    "y": 46
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284652391,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284652500,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyH",
+    "isSensitive": false,
+    "key": "h",
+    "ts": 1768284653622,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyH",
+    "isSensitive": false,
+    "key": "h",
+    "ts": 1768284653728,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyE",
+    "isSensitive": false,
+    "key": "e",
+    "ts": 1768284653733,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyE",
+    "isSensitive": false,
+    "key": "e",
+    "ts": 1768284653826,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyL",
+    "isSensitive": false,
+    "key": "l",
+    "ts": 1768284653881,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyL",
+    "isSensitive": false,
+    "key": "l",
+    "ts": 1768284653988,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyL",
+    "isSensitive": false,
+    "key": "l",
+    "ts": 1768284654047,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyL",
+    "isSensitive": false,
+    "key": "l",
+    "ts": 1768284654153,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyO",
+    "isSensitive": false,
+    "key": "o",
+    "ts": 1768284654211,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284654328,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyO",
+    "isSensitive": false,
+    "key": "o",
+    "ts": 1768284654339,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284654456,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284654519,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284654553,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyH",
+    "isSensitive": false,
+    "key": "h",
+    "ts": 1768284654607,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyI",
+    "isSensitive": false,
+    "key": "i",
+    "ts": 1768284654676,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyH",
+    "isSensitive": false,
+    "key": "h",
+    "ts": 1768284654772,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284654775,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyI",
+    "isSensitive": false,
+    "key": "i",
+    "ts": 1768284654823,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284654849,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284654866,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyI",
+    "isSensitive": false,
+    "key": "i",
+    "ts": 1768284654956,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284654997,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284655104,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyI",
+    "isSensitive": false,
+    "key": "i",
+    "ts": 1768284655114,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284655199,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284655208,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284655336,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyA",
+    "isSensitive": false,
+    "key": "a",
+    "ts": 1768284655379,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284655470,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyA",
+    "isSensitive": false,
+    "key": "a",
+    "ts": 1768284655525,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284655595,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Space",
+    "isSensitive": false,
+    "key": " ",
+    "ts": 1768284655646,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyE",
+    "isSensitive": false,
+    "key": "e",
+    "ts": 1768284655668,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284655732,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyE",
+    "isSensitive": false,
+    "key": "e",
+    "ts": 1768284655765,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284655814,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284655849,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyS",
+    "isSensitive": false,
+    "key": "s",
+    "ts": 1768284655922,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "KeyT",
+    "isSensitive": false,
+    "key": "t",
+    "ts": 1768284655962,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Enter",
+    "isSensitive": false,
+    "key": "Enter",
+    "ts": 1768284656045,
+    "type": "keydown",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "code": "Enter",
+    "isSensitive": false,
+    "key": "Enter",
+    "ts": 1768284656146,
+    "type": "keyup",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540
+  },
+  {
+    "ts": 1768284657256,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 438,
+    "y": 46
+  },
+  {
+    "ts": 1768284657277,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 448,
+    "y": 46
+  },
+  {
+    "ts": 1768284657298,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 472,
+    "y": 47
+  },
+  {
+    "ts": 1768284657318,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 504,
+    "y": 53
+  },
+  {
+    "ts": 1768284657340,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 559,
+    "y": 73
+  },
+  {
+    "ts": 1768284657368,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 640,
+    "y": 115
+  },
+  {
+    "ts": 1768284657389,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 685,
+    "y": 141
+  },
+  {
+    "ts": 1768284657409,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 717,
+    "y": 163
+  },
+  {
+    "ts": 1768284657430,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 727,
+    "y": 169
+  },
+  {
+    "ts": 1768284657451,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 729,
+    "y": 170
+  },
+  {
+    "ts": 1768284658354,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 724,
+    "y": 166
+  },
+  {
+    "ts": 1768284658374,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 701,
+    "y": 144
+  },
+  {
+    "ts": 1768284658395,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 678,
+    "y": 122
+  },
+  {
+    "ts": 1768284658416,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 656,
+    "y": 99
+  },
+  {
+    "ts": 1768284658437,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 644,
+    "y": 83
+  },
+  {
+    "ts": 1768284658457,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 636,
+    "y": 75
+  },
+  {
+    "ts": 1768284658478,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 632,
+    "y": 71
+  },
+  {
+    "ts": 1768284658499,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 629,
+    "y": 68
+  },
+  {
+    "ts": 1768284658524,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 625,
+    "y": 65
+  },
+  {
+    "ts": 1768284658547,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 623,
+    "y": 63
+  },
+  {
+    "ts": 1768284658595,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 620,
+    "y": 63
+  },
+  {
+    "ts": 1768284658617,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 619,
+    "y": 62
+  },
+  {
+    "ts": 1768284658644,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 619,
+    "y": 61
+  },
+  {
+    "ts": 1768284658680,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 618,
+    "y": 61
+  },
+  {
+    "ts": 1768284658728,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 618,
+    "y": 60
+  },
+  {
+    "ts": 1768284658775,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 618,
+    "y": 59
+  },
+  {
+    "ts": 1768284658797,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 616,
+    "y": 58
+  },
+  {
+    "ts": 1768284658832,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 613,
+    "y": 54
+  },
+  {
+    "ts": 1768284658856,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 610,
+    "y": 51
+  },
+  {
+    "ts": 1768284658895,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 608,
+    "y": 50
+  },
+  {
+    "ts": 1768284659378,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 623,
+    "y": 38
+  },
+  {
+    "ts": 1768284661492,
+    "type": "mousemove",
+    "url": "www.google.com",
+    "winH": 710,
+    "winW": 1540,
+    "x": 1100,
+    "y": 149
+  }
+]
